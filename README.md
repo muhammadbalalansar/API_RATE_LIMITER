@@ -79,4 +79,5 @@ This project includes step-by-step learning materials covering security theory, 
 
 ## License
 
-AGPL 3.0
+**AGPL 3.0**
+
