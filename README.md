@@ -39,7 +39,7 @@
 - Fingerprint levels (RELAXED, NORMAL, STRICT) for client identification granularity
 - Multiple stacking rules where the most restrictive limit applies
 
-## Quick Start
+## Quick Start:
 
 ```bash
 uv add fastapi-420
