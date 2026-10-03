@@ -30,7 +30,7 @@
 
 *Learning Docs are here: [learn modules](#learn).*
 
-## What It Does
+## What It Does :
 
 - Three implementation methods: middleware (global), decorator (per route), dependency injection
 - Sliding Window, Token Bucket, and Fixed Window rate limiting algorithms
