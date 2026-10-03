@@ -61,7 +61,7 @@ For Redis support: `uv add fastapi-420[redis]`
 >
 > Install: `curl -sSf https://just.systems/install.sh | bash -s -- --to ~/.local/bin`
 
-## Learn
+## Learn:
 
 This project includes step-by-step learning materials covering security theory, architecture, and implementation.
 
