@@ -79,4 +79,4 @@ This project includes step-by-step learning materials covering security theory, 
 **AGPL 3.0**
 
 Prepared by :
-*Muhammad Balal Ansar (Cyber Security Expert)**
+**Muhammad Balal Ansar (Cyber Security Expert)**
